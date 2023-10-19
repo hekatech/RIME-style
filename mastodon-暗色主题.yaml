@@ -1,0 +1,15 @@
+  "preset_color_schemes/4o-mast-dark":
+    author: "4o, based on Mastodon theme dark"
+    back_color: 0x372C28
+    border_color: 0x372C28
+    candidate_text_color: 0xFFFFFF
+    comment_text_color: 0xC8AE9B
+    hilited_back_color: 0x221B19
+    hilited_candidate_back_color: 0xFF8D8C
+    hilited_candidate_label_color: 0xFFFFFF
+    hilited_candidate_text_color: 0xFFFFFF
+    hilited_comment_text_color: 0xFFFFFF
+    hilited_text_color: 0xC8AE9B
+    label_color: 0x846960
+    name: "毛象 / 暗色"
+    text_color: 0xFFFFFF
